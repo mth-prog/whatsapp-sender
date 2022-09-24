@@ -7,6 +7,7 @@ Uma rotina para envio automatico de mensagens pelo whatsapp, atraves de um arqui
 
 - a linha de comando é necessario que entre na pasta da rotina e passar:
   node cli.js "diretorioDoJSON" "mensagem" como no exemplo abaixo:
+  
   ![image](https://user-images.githubusercontent.com/53189625/192109451-500207f1-795d-4515-ad79-1f9e647455f6.png)
 
   
