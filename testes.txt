@@ -1,0 +1,10 @@
+[
+  {  
+    "telefone": 1111111111111,
+    "anexo": ["C:/arquivo1.txt", "C:/arquivo2.pdf"] 
+  },
+  {
+     "telefone": 2222222222222,
+     "anexo": [] 
+  }
+]
